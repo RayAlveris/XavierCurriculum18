@@ -2,6 +2,21 @@ body {
   min-height: 75rem;
   padding-top: 4.5rem;
 }
+.navbar .navbar-brand {
+  color: #fff;
+}
+.navbar .navbar-brand .logo:hover{
+  color: #f6c652 !important;
+}
+.navbar .navbar-nav li a{
+  color: #fff !important;
+}
+.navbar .navbar-nav li a:hover{
+  color: #f6c652 !important;
+}
+.navbar-toggler{
+  background-color: #f6c652;
+}
 
 #pyramid {
   width: 600px;
